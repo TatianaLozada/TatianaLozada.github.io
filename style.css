@@ -10,3 +10,7 @@ body
     font-size: 26px;
     color: navy;
 }
+h1 {
+    color: yellow;
+    background-color: blue;
+}
