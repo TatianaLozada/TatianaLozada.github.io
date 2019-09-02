@@ -1,18 +1,19 @@
+<!--Navy Paragraghs-->
 p {
     color: navy;
 }
-
+<!--ancors-->
 a {
     color: blue;
 }
-
+<!-- -->
 body
 {
     font-size: 26px;
     color: orange;
     background-color: aqua;
 }
-
+ <!--Highlight the Big Headings-->
 h1 {
     color: #ffc;
     background-color: #009;
