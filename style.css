@@ -19,3 +19,8 @@ body
     font-size: 26px;
     color: navy;
 }
+
+h1 {
+    color: #ffc;
+    background-color: #009;
+}
