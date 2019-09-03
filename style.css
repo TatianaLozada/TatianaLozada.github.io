@@ -1,21 +1,21 @@
 
-<!-- -->
+
 body
 {
     font-size: 26px;
     color: navy;
     background-color: #ADD8E6;
 }
- <!--Highlight the Big Headings-->
+ 
 h1 {
     color: #ffc;
     background-color: #009;
 }
-<!--Navy Paragraghs-->
+
 p {
     color: navy;
 }
-<!--ancors-->
+
 a {
     color: #0000FF;
 }
