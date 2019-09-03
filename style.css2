@@ -18,5 +18,5 @@ a {
 strong {
     font-style: italic;
     text-transform: uppercase;
-    color:#FF00FF;
+    color: #FF00FF;
 }
