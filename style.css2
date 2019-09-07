@@ -1,6 +1,8 @@
-body {
+body 
+{
     font-family: arial, helvetica, sans-serif;
     font-size: 14px;
+    background-color: #ADD8E6;
 }
 
 h1 {
@@ -13,11 +15,11 @@ h2 {
      color: #00FFBF;
 }
 
-a {
-    text-decoration: none;
+p 
+{
+    color: navy;
 }
 
-strong {
-    font-style: italic;
-    
+a {
+    color: #0000FF;
 }
