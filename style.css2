@@ -1,20 +1,19 @@
-
-body
+body 
 {
-    font-size: 26px;
+    font-family: arial;
+    font-size: 14px;
     color: navy;
     background-color: #ADD8E6;
 }
- 
+
 h1 {
-    color: #ffc;
-    background-color: #009;
+    color: #00FFBF;
+    text-transform: uppercase;
+
 }
 
-p {
-    color: navy;
-}
-
-a {
-    color: #0000FF;
+h2 {
+    font-size: 1.5em;
+    color: #00FFBF;
+    text-transform: uppercase;
 }
