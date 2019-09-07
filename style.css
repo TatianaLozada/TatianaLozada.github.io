@@ -10,6 +10,7 @@ body
 h1 {
     color: #ffc;
     background-color: #009;
+    text-transform: uppercase;
 }
 
 p {
