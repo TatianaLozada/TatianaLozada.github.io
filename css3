@@ -1,0 +1,19 @@
+body
+{
+    font-size: 26px;
+    color: navy;
+    background-color: #ADD8E6;
+}
+ 
+h1 {
+    color: #ffc;
+    background-color: #009;
+}
+
+p {
+    color: navy;
+}
+
+a {
+    color: #0000FF;
+}
