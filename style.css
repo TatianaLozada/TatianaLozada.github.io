@@ -39,4 +39,6 @@ img {
     border-width: 2px;
     border-color: navy;
 }
-
+table {
+    background-color: #ccc;
+}
