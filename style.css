@@ -35,7 +35,7 @@ a {
 }
 
 img {
-    border-style: solid;
+    border-style: outset;
     border-width: 1px;
     border-color: navy;
 }
