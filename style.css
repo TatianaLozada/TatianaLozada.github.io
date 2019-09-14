@@ -21,11 +21,22 @@ h2 {
     border-right-width: 10px;
     border-color: navy;
 }
+
+h3{
+}
+
+/* This is a comment, by the way */
 p {
     color: navy;
 }
-
+/* ancors*/
 a {
     color: #0000FF;
+}
+
+img {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #ccc;
 }
 
