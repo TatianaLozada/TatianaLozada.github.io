@@ -15,6 +15,11 @@ h1 {
 
 h2 {
     color: #c464a2;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
 }
 p {
     color: navy;
