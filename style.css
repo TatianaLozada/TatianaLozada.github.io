@@ -38,6 +38,10 @@ img {
     border-style: outset;
     border-width: 1px;
     border-color: navy;
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
 }
 table {
     background-color: #ccc;
