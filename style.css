@@ -39,7 +39,7 @@ img {
     border-width: 1px;
     border-color: navy;
     font-size: 1.5em;
-    background-color: #ccc;
+    background-color: #ADD8E6;
     margin: 20px;
     padding: 40px;
     border-style: inset;
@@ -47,7 +47,7 @@ img {
     border-left-width: 10px;
     border-right-width: 10px;
     border-color: #92a8d1
-    background-color: #f7cac9;
+    background-color: #ADD8E6;
 }
 
 table {
