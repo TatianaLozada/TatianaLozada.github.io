@@ -42,11 +42,11 @@ img {
     background-color: #ccc;
     margin: 20px;
     padding: 40px;
-    border-style: dashed;
+    border-style: inset;
     border-width: 3px;
     border-left-width: 10px;
     border-right-width: 10px;
-    border-color: red;
+    border-color: #00bfff;
 }
 table {
     background-color: #ccc;
