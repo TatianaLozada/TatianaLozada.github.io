@@ -46,8 +46,8 @@ img {
     border-width: 3px;
     border-left-width: 10px;
     border-right-width: 10px;
-    border-color: #00bfff;
-    background-color: navy;
+    border-color: #navy
+    background-color: #ccc;
 }
 
 table {
