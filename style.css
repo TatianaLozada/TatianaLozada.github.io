@@ -39,10 +39,10 @@ img {
     border-style: inset;
     border-width: 3px;
     
-    background-color: #E5ABA9;
+    background-color: navy;
     
     border-width: 1px;
-    border-color: navy;
+    border-color: #E5ABA9;
     font-size: 1.5em;
    
     margin: 20px;
