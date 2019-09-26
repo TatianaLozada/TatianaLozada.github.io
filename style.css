@@ -8,7 +8,7 @@ body
 }
  
 h1 {
-    align: center
+    align-content: center;
     text-transform: uppercase;
     color: #ffc;
     background-color: #009;    
