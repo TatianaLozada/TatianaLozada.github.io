@@ -1,0 +1,42 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <title> Tatiana Lozada's Professional Development</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+ <!-- I need to fix the navigation bar at the bottom of all pages and it them systematic-->  
+  
+<body>
+  
+<center> <h1>Hello World</h1> </center>
+  <h2>Welcome to Ms. Lozada's Webpage! </h2>
+  
+<p>This is my new webiste that I have been creating as a summary of my professional development as a teacher. It's under <span style='font-size:30px;'>&#128679;</span> construction<span style='font-size:30px;'>&#128679;</span>.</p>
+<center><a href="https://twitter.com/Ms_Lozada123?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Ms_Lozada123</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+  <center>
+    <img src="TatianaLozada.github.io/400x400Tatiana.png" width="300" height="450" alt="Tatiana">
+  </center>
+  <center> <p> <strong>EMAIL:</strong> Tatiana.Lozada@browardschools.com</p></center>
+  
+<h2>Please review the Following:</h2>
+<ol>
+  
+  
+   <li> <p><a href="TatianaLozada.github.io/EdCamp.html">EdCamp October 2019</a></p> </li>
+  <li> <p><a href="TatianaLozada.github.io/ClassroomWebsite.html">Classroom Website</a></p> </li>
+  <li> <p><a href="https://tatianalozada.github.io/facebook.html">Facebook Summit Summer 2019</a></p> </li>
+  <li> <p><a href="TatianaLozada.github.io/MoreonMsLozada.html">More on Ms. Lozada</a></p> </li> 
+  
+  
+  <br>
+    
+</ol>
+ 
+ <footer>
+   <center> <p>*************This is my Home page*************</p> </center>
+</footer>
+  
+  
+  </body>
+  
+</html>
