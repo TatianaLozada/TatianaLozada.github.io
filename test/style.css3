@@ -1,0 +1,59 @@
+
+
+body
+{
+    font-size: 26px;
+    color: navy;
+    background-color: #ADD8E6;
+}
+ 
+h1 {
+    align-content: center;
+    text-transform: uppercase;
+    color: #ffc;
+    background-color: #009;    
+}
+
+h2 {
+    text-transform: uppercase;
+    color: #C464A2;
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: navy;
+}
+
+h3{
+}
+
+/* This is a comment, by the way */
+p {
+    color: navy;
+}
+/* ancors*/
+a {
+    color: #0000FF;
+}
+
+img {
+    border-style: inset;
+    border-width: 3px;
+    
+    background-color: navy;
+    
+    border-width: 1px;
+    border-color: #E5ABA9;
+    font-size: 1.5em;
+   
+    margin: 20px;
+    padding: 40px;
+    
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: #03f0fc;
+}
+
+table {
+    background-color: #ccc;
+}
